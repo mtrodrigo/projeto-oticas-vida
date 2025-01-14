@@ -41,7 +41,7 @@
 .tx_box P{
     font-size: 20px;
 }
-@media (max-width: 375px) {
+@media (max-width: 450px) {
     .img_tx{
         flex-direction: column;
     }
