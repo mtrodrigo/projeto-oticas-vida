@@ -1,0 +1,19 @@
+.rodape{
+    text-align: center;
+    background-color: #000;
+    color: #fff;
+}
+.rodape p{
+    line-height: 50px;
+}.link{
+    text-decoration: none;
+    color: #fff;
+}
+.link:hover{
+    color: #646464;
+}
+@media (max-width: 375px) {
+    .rodape{
+        font-size: 14px;
+    }
+}
