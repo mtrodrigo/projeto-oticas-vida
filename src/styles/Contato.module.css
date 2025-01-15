@@ -39,7 +39,7 @@
     padding-left: 15px;
     display: flex;
 }
-@media (max-width: 375px) {
+@media (max-width: 450px) {
     .contato_box{
         flex-direction: column;
         width: 300px;
